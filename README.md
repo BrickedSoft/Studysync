@@ -6,10 +6,10 @@
     <em>This is the repository for Studysync project combining all parts of it.</em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/license/BrickedSoft/Studysync?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
   <img src="https://img.shields.io/github/last-commit/BrickedSoft/Studysync?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-  <img src="https://img.shields.io/github/languages/top/BrickedSoft/Studysync?style=default&color=0080ff" alt="repo-top-language">
-  <img src="https://img.shields.io/github/languages/count/BrickedSoft/Studysync?style=default&color=0080ff" alt="repo-language-count">
+  <img src="https://img.shields.io/github/languages/top/yashrif/study-sync-client?style=default&color=0080ff" alt="repo-top-language">
+  <img src="https://img.shields.io/github/languages/top/jahidem/studysync-ai?style=default&color=0080ff" alt="repo-top-language">
+  <img src="https://img.shields.io/github/languages/top/yashrif/study-sync-server?style=default&color=0080ff" alt="repo-top-language">
 </p>
 
 
@@ -22,7 +22,7 @@
 - [ Getting Started](#getting-started)
     - [ Prerequisites](#prerequisites)
     - [ Installation](#installation)
-    - [ Usage](#-usage)
+    - [ Usage](#usage)
 - [ Contributors](#contributors)
 
 
@@ -98,7 +98,7 @@
 - 
 ### Installation
 You need to habe kubernetes setup and be able to use `kubectl` on terminal.
-## Using Kubernetes
+#### Using Kubernetes
 1. Clone and navigate to the project directory:
     ```bash
     git clone https://github.com/jahidem/studysync-k8s.git
@@ -109,7 +109,7 @@ You need to habe kubernetes setup and be able to use `kubectl` on terminal.
     ```bash
     kubectl apply -f .
     ```
-## Individual Build
+#### Individual Build
 Follow instructions for:
 - [`yashrif/study-sync-client`](https://github.com/yashrif/study-sync-client)
 - [`yashrif/study-sync-server`](https://github.com/yashrif/study-sync-server)
