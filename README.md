@@ -40,7 +40,7 @@
 - **Practice Statistics:** Studysync home tab offers an overview of how much Flashcards review, and acquired proficiency of generated CQ and MCQ.
 - **Study Plan Progress:** Get an idea of overall progress for study plans at a glance with our intuitive activity graphs.
 
-### 5. AI-Assisted Study
+### 3. AI-Assisted Study
 - **Integrated PDF Reader & Annotation:** Open and read your study materials directly within the application. With full PDF annotation and marking features powered by PSPDFKit, you can highlight, add notes, and reference key sections for a more interactive and organized study experience.
 
 - **AI-Enhanced Explanation & Examples:** Select any portion of text from the opened PDF and use Generative AI to explain difficult concepts or provide examples, helping you deepen your understanding of the material.
@@ -95,7 +95,7 @@
 - PostgreSQL
 - Maven & Yarn
 - Python 3.11.7
-- 
+
 ### Installation
 You need to habe kubernetes setup and be able to use `kubectl` on terminal.
 #### Using Kubernetes
