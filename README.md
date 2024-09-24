@@ -116,7 +116,8 @@ Follow instructions for:
 - [`jahidem/studysync-ai`](https://github.com/jahidem/studysync-ai)
 - Open browser window on [localhost:3000](http://localhost:3000)
 ### Usage
-TODO
+
+[![Studysync](http://img.youtube.com/vi/TQvnx-vbvQs/0.jpg)](http://www.youtube.com/watch?v=TQvnx-vbvQs "Studysync")
 
 ##  Contributors
 <p align="left">
